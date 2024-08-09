@@ -36,8 +36,8 @@ Instacart, a prominent online grocery service, seeks to deepen its understanding
 ## Project Structure
  The project is organized into the following directories:
  - **01 Project Management**: Includes project brief and data dictionary.
- - **02 Data**:
-   - `Original Data`: Raw datasets (excluded from GitHub due to size limitations).
+ - **02 Data**:(excluded from GitHub due to size limitations)
+   - `Original Data`: Raw datasets.
    - `Prepared Data`: Cleaned and processed datasets ready for analysis.
  - **03 Scripts**: Jupyter notebooks containing all code and analysis.
  - **04 Analysis**:
